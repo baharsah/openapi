@@ -19,4 +19,8 @@
 
  - [Terms And Conditions](https://qris.id/homepage/syarat-dan-ketentuan-daftar-open-api-qris)
 
+ ## Shopee
+
+ - [Main Page](https://open.shopee.com/)
+
 *Baharsah 2021*
