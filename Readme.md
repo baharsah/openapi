@@ -23,4 +23,22 @@
 
  - [Main Page](https://open.shopee.com/)
 
+ ## Runcloud (Runcloud Sdn Bhd)
+
+- [Documentation](https://runcloud.io/docs/api)
+- [Dashboard](https://manage.runcloud.io/auth/login)
+
+## CloudRaya API
+
+- [Documentation](https://cp.cloudraya.com/apidoc/)
+
+## IDCloudHost
+
+- [Documentation](https://api.idcloudhost.com/)
+
+## Midtrans
+
+- [Documentation](https://docs.midtrans.com/)
+
+
 *Baharsah 2021*
