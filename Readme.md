@@ -32,5 +32,9 @@
 
 - [Documentation](https://cp.cloudraya.com/apidoc/)
 
+## IDCloudHost
+
+- [Documentation](https://api.idcloudhost.com/)
+
 
 *Baharsah 2021*
