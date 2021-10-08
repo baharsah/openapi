@@ -28,5 +28,9 @@
 - [Documentation](https://runcloud.io/docs/api)
 - [Dashboard](https://manage.runcloud.io/auth/login)
 
+## CloudRaya API
+
+- [Documentation](https://cp.cloudraya.com/apidoc/)
+
 
 *Baharsah 2021*
